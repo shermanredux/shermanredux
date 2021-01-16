@@ -10,10 +10,10 @@ During my free time I am the Lead [FiveM](https://fivem.net) Project Manager ove
 
 #### 🌱 My knowledge:
 - LUA & Javascript 
-- Graphic Design 
-- 3D Modeling 
 - Concept Development 
 - Full-Stack Development 
+- Graphic Design 
+- 3D Modeling 
 
 #### You can follow me at:
 [<img align="left" alt="youtube | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UCczJwRSXgM9goCTjapUJLTQ/)

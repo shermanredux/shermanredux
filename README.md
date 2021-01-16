@@ -1,8 +1,7 @@
 ## •「Sherm」•
 ### Cybersecurity Student
 
-#### 💬 You can ask me anything about [Requiem](https://discord.com/invite/Requiem)
-##### 💬 During my free time I am also working on [FiveM](https://fivem.net)
+##### 💬 During my free time I am the Lead [FiveM](https://fivem.net) Project Manager over at [Requiem](https://discord.com/invite/Requiem)
 
 ### 🔭 Information
 - I’m currently working on: <b>Requiem FiveM Server </b>

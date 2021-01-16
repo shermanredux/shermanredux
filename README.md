@@ -10,11 +10,11 @@
 • I’m looking to collaborate on: <b>Anything FiveM related </b>
 
 ### 🌱 My knowledge:
-• LUA & Javascript
-• Graphic Design
-• 3D Modeling
-• Concept Development
-• Full-Stack Development
+• LUA & Javascript 
+• Graphic Design 
+• 3D Modeling 
+• Concept Development 
+• Full-Stack Development 
 
 ### You can follow me at:
 [<img align="left" alt="youtube | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UCczJwRSXgM9goCTjapUJLTQ/)

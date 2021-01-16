@@ -5,9 +5,9 @@
 ##### 🔭 During my free time I am also working on [FiveM](https://fivem.net)
 
 ### 🔭 Information
-• I’m currently working on: <b>Requiem FiveM Server </b>
-• I’m currently learning: <b>Cryptography</b>
-• I’m looking to collaborate on: <b>Anything FiveM related </b>
+- I’m currently working on: <b>Requiem FiveM Server </b>
+- I’m currently learning: <b>Cryptography</b>
+- I’m looking to collaborate on: <b>Anything FiveM related </b>
 
 ### 🌱 My knowledge:
 - LUA & Javascript 

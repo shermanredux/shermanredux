@@ -11,9 +11,13 @@
 
 ### 🌱 My knowledge:
 • LUA & Javascript 
+
 • Graphic Design 
+
 • 3D Modeling 
+
 • Concept Development 
+
 • Full-Stack Development 
 
 ### You can follow me at:

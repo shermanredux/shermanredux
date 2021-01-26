@@ -9,7 +9,9 @@ During my free time I am the Lead [FiveM](https://fivem.net) Project Manager ove
 - I’m looking to collaborate on: <b>Anything FiveM related </b>
 
 #### 🌱 My knowledge:
-- LUA & Javascript 
+- LUA & Javascript
+- System Administration
+- Database Management
 - Concept Development 
 - Full-Stack Development 
 - Graphic Design 

@@ -1,6 +1,8 @@
 ### •「Sherm」•
 #### Cybersecurity Student
 
+During my free time I am a [FiveM](https://fivem.net) Support Team Member over at [Codesign](https://discord.gg/U8zuQPdgY8).
+
 #### 💬 Information
 - I’m currently working on: <b>Personal Project</b>
 - I’m currently learning: <b>Cryptography</b>

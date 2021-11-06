@@ -14,6 +14,7 @@ During my free time I live life.
 - Database Management
 - Concept Development 
 - Full-Stack Development 
+- Networking
 - Graphic Design 
 - 3D Modeling 
 

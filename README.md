@@ -4,7 +4,7 @@
 During my free time I live life.
 
 #### 💬 Information
-- I’m currently working on: <b>HTML/CSS Web Terminal</b>
+- I’m currently working on: <b>HTML/CSS Web Terminal & CyberWireHosting</b>
 - I’m currently expanding my knowledge on: <b>Virtualization</b>
 - I’m looking to collaborate on: <b>What I'm working on</b>
 

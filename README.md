@@ -9,7 +9,8 @@ During my free time I live life.
 - I’m looking to collaborate on: <b>What I'm working on</b>
 
 #### 🌱 My knowledge:
-- LUA | Javascript | Python | HTML/CSS
+- LUA | Javascript | Python | HTML/CSS | Java | C
+- Project Management
 - System Administration
 - Database Management
 - Concept Development 
